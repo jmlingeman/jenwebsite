@@ -45,7 +45,7 @@ pub fn app(cx: Scope<()>) -> Element {
                     "blah blaah blah blah blah"
                 }
                 p {
-                    "blah blahh blah blaah blah blah blah"
+                    "blah blahh blah blah blaah blah blah blah"
                 }
             }
             div { class: "sectionbreak", "Section break image goes here"}
