@@ -946,7 +946,7 @@ function initSync(bytes) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('todomvc-4a98595888a86069_bg.wasm', import.meta.url);
+        input = new URL('todomvc-d8aee351e517511a_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
