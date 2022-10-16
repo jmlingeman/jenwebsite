@@ -13,7 +13,7 @@ pub fn app(cx: Scope<()>) -> Element {
             div {
                 class: "textsection",
                 header { class: "header",
-                    h2 {"Intro"}
+                    h2 {"Intro / Background Info"}
                 }
                 p {
                     "blah blaah blah blah blah"
