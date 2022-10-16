@@ -68,7 +68,7 @@ pub fn app(cx: Scope<()>) -> Element {
 
         }
         footer { class: "info",
-            p { "Created by ", a {  href: "http://jesseisageek.com", "jesse lingeman" }}
+            p { "Website by ", a {  href: "http://jesseisageek.com", "jesse lingeman" }}
         }
     })
 }
